@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  ordenamiento.cpp
+  Generando código...
+C:\Users\ZeroJChang\source\repos\pkdx2_DeLeónChang_1170419\pkdx2_DeLeónChang_1170419\MyForm.h(248,11): warning C4101:  'nombre': variable local sin referencia
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  pkdx2_DeLeónChang_1170419.vcxproj -> C:\Users\ZeroJChang\source\repos\pkdx2_DeLeónChang_1170419\Debug\pkdx2_DeLeónChang_1170419.exe
